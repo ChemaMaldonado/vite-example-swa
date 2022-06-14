@@ -1,0 +1,9 @@
+{
+  "login.user.name": "User",
+  "login.user.password": "Password",
+  "login.form.action": "LOG IN",
+  "login.form.footer.header": "copyright © {{date, string}} Akralogic",
+  "login.form.footer.subheader": "soporte@akralogic.es | 667 51 00 01",
+
+  "Buenas tardes, Chema 👋🏼": "Welcome, Chema 👋🏼"
+}
